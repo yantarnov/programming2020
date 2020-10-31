@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    color: gray;
+    font-size: 4vw;
+}
+img{
+    width: 70vw;
+}
+@media (max-width:1000px){
+    body{
+        font-size: 6vw;
+    }
+    img{
+        width: 90vw;
+    }
+}
